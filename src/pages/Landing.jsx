@@ -34,7 +34,7 @@ export default function Landing() {
   {/* Hero Image */}
   <div className="md:w-1/2 flex justify-center md:justify-end">
     <img
-      src="/src/assets/late-night-studying-stockcake.jpg"
+      src="late-night-studying-stockcake.jpg"
       alt="Focused person at desk"
       className="max-w-[520px] w-full rounded-3xl shadow-2xl border-4 border-[#2d2420]"
     />
