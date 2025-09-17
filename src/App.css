@@ -1,0 +1,7 @@
+/* Reset margin & padding */
+body {
+  background-color: #1e1a17;
+ margin: 0;
+  padding: 0;
+}
+
