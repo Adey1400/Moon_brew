@@ -1,6 +1,6 @@
 // src/App.jsx
 import { BrowserRouter as Router, Routes, Route, Navigate, useLocation } from "react-router-dom";
-import { AuthProvider, useAuth } from "./utils/authContext";
+import { AuthProvider ,useAuth } from "./utils/AuthContext";
 import { PrivateRoutes } from "./utils/AuthProvider";
 import "./App.css"
 import Header from "./components/Header";
